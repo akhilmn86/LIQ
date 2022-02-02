@@ -1,0 +1,149 @@
+Linux Interview question 
+=========================
+Explain Linux Booting process? What are the important file for booting and its path?
+Locate grup configuration file? How to troubleshoot this if any issue comes?
+What are cron jobs? What are the fields are there? What action to take if cron jobs are not running? Locate cronjob log file?
+What is bonding? Types of bonding? How to configure explain with commands?
+How to check Ethernet adapter hardware details?
+How to check new added luns? Explain commands
+What is NFS? Locate configuration files?
+What is setfacl command?
+How to do patching? What need to do before and after patching? Explain commands.
+About LVM? How to add, Extend, Reduce? Explain commands?
+
+===================================================================================
+
+Explain Boot Process?
+What is MBR size? Brief its partitions?
+Explain the process path of init?
+How to run apache server in run level 2?
+How to check CPU utilization for last 2 days?
+Cron job is not functioning, how to troubleshoot?
+We need to block all users including root user for accessing SSH service other than current user, how?
+Difference between NFS v2, NFS v3 & NFS v4?
+Difference between Ext2, Ext3, Ext4 & XFS file systems?
+What is RPC? Explain in brief.
+Port numbers of NFS & Samba?
+Configuration methods of nfs server?
+
+===========================================================================================================
+
+What is the use of "quiet" option in kernel line on grup.conf file? What will happen if that option removed?
+From where the kdump configuration collects VMCore images ? How it works if linux crashed?
+How to check network drop between 2 servers? How to troubleshoot this issue?
+How will you skip a service during booting process?
+How to check RAID status in linux?
+What are steps will you take for server performance check?
+How will filter the process which is using more cpu?
+What is "D"  stat in linux process?
+How to check CPU frequency for a process?
+How to change RX value for a NIC?
+How to check MAC id for a NIC Bond?
+How to configure Active-Active NIC bonding?
+How to take backup/ rebuild MBR?
+What is SI,SO and BI,BO status in vmstat output?
+What is the use of Watchdog daemon?
+Storage team assigned a LUN for your server. How will you use that LUN?
+
+=============================================================================================================
+
+Sify Technology Interview Questions
+===================================
+how do you make lvm partition while instating rhel core based instalation.
+user complaining server is performing very slow. How will you troubleshoot it ?
+how to find cpu, memory utilization before 3 hours
+what is documentary root
+how to add lvm.
+explan how do you install nfs, and how to export share ? what all are dependancies required .
+which version nagios you are using .
+what is bonding ? explain type of bonding and instalation method .
+
+=============================================================================================================
+
+ IBM interview question
+=======================
+linux boot process
+explain LVM
+what is network bonding and explain
+if user ask my passwd got locked as admin what will you do?
+how will you install new update of existing application ..new application and existing application also should work.
+=============================================================================================================
+
+ TCS Questions are the below.
+=============================
+Redhat NFS client displays nobody/nobody error? why & how to Troubleshoot this issue?
+What is the command for to check dependencies for a package using RPM?
+what is the argument to Upgrade a installed package using RPM? is
+what is LDAP and How it works?
+How will you do the patching?
+Explain the permission level for Users, Groups, files?
+how to set root or /sbin commands to a normal user?
+how to set the command for server to shutdown immediately once the user login the server?
+=============================================================================================================
+
+ Wipro
+ =======
+What is the difference between NFS, Samba, FTP?
+how to reduce LV size and How to increase LV size ? Explain full commands?
+how to update kernel?
+Booting process?
+Application team telling that not working after kernel updates? What action will you take?
+Explain Fstab entries ?
+What is the use of Swap? how will you update swap in fstab?
+Where swap file located?
+what is the use Mtab?
+what is bonding ? tell me it's congiuration file location?
+=============================================================================================================
+
+Oracle
+======
+Booting process Linux 6 and 7?
+How to change Linux services startup/boot order ?
+Grub installation 
+DNS Work flow ?
+grub.conf and grub-install diff
+grub corrupted and MBR corrupted ?
+inittab is missing ?
+How to downgrade a package (YUM and RPM) ?
+Difference between Package installed and upgrade 
+kernel panic -- not synching initrms (image correpted issue)
+.so is missing or install missing Shared Libraries
+linux  - latest kernal
+How many disk partition have created in Linux
+inode issue. disk is full in inode issue. 
+soft link and Hard-link difference and size of hard-link 
+=============================================================================================================
+
+Allianz Interview Questions
+===========================
+Booting Process in RHEL 6 and 7
+Difference Between initrd and iniramfs
+Explain the kernel parameters in version
+    kernel-3.10.0-957.21.3.el7.x86_64
+        a)what is major version and minor version in the above example.
+        b)x86_64 refers to 64 bit architecture, but why 86 is mentioned in that
+How to find user information whether it is local user and LDAP user
+How you will change user password
+NFS services name and hoe to troubleshoot hung issues(example df -h is in hung state)
+How to extend LVM filesystem.
+Is it possible to reduce XFS filesystem, how can be done
+Difference ext4 and ifs
+Difference between RHEL 7 and RHEL 8
+How to find FC port states(HBA card)
+How to find newly added LUN
+NIC bonding and how many types of bonding available
+How to install and uninstall packages
+How to find PCI devices
+Major questions will come from Performance Issues elated( Eg like load average, disk performance, memory utilisation, cpu utilisation, performance monitoring tools, systat tools like vmstat,iostat,sar command outputs and fields)
+Basic knowledge in Redhat satellite - Free 1hr video in Udemy (https://www.udemy.com/course/red-hat-satellite-technical-overview-rh053/)
+Basic Knowledge in Ansible
+Good to have if you know Redhat PCS cluster
+Good to have if you know AWS and Azure knowledge
+ITIL process related mainly will come in 3rd round with manager
+Good to have if you know shell scripting
+Satellite Questions
+What is Capsule server, what is the purpose
+What are the features and use cases of satellite
+What is RHSA
+What is Errata
+=============================================================================================================
