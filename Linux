@@ -146,4 +146,33 @@ What is Capsule server, what is the purpose
 What are the features and use cases of satellite
 What is RHSA
 What is Errata
+----------------------
+lvm recovery
+how to edit kernel parameter
+in nfs what is soft mount and hard mount
+what is rhsa and how to check if particular security package is applied or not
+how the load average value is calculated and from where the value getting fetched
+how to read sar file and location
+how to troubleshoot ssh not connecting
+what is capsule in satellite
+what kernel version field represent
+what is Lock lun in cluster
+What is stonith.
+bonding modes.how to switch to another nic when one is down
+tools used for troubleshoot.top,vmstat,iostat etc
+what is GFS
+network issue how to troubleshoot
+what is rescue mode and emergency mode
+booting related issues
+how to check installed kernel modules
+
+Management questions
+====================
+what to do if the change is not getting completed in given window
+one server holding two application having issue and fixed.one owner is ok for down time other
+not.how to handle the situation
+ego issue for one employee with you how will you handle it
+p1 p2 p3 ticket SLA
+different types of changes?
+
 =============================================================================================================
